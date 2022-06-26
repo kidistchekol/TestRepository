@@ -1,7 +1,7 @@
 import enum
 
 class weathertype(enum.Enum):
-    SUNNY= "sun"
+    SUNNY= "sunny"
     CLOUDY= "cloud"
     SNOWY= "snow"
     HOT="hot"
