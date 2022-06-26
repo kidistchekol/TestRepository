@@ -1,4 +1,4 @@
-ef forcastweather(weather):
+def forcastweather(weather):
 
     if weather == 'cloudy':
         print("its cloudy")
